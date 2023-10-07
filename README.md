@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matthew Giedt</h1>
-<h3 align="center">Senior Engineer at Chicago Trading</h3>
-
-- 📫 How to reach me **mgiedt@gmail.com**
+<h3 align="center">Senior Engineer at Millennium Advisors</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
